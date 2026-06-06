@@ -1,3 +1,4 @@
 node_modules/
 .env
 *.log
+# mongodb+srv://<royenzaadmin>:<royenzaadmin69>@royneza-cluster.86rijrr.mongodb.net/?royenzaDB=royneza-cluster
